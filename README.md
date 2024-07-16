@@ -19,10 +19,12 @@ A simple weather application built using Flutter that fetches weather data from 
 
 ## Screenshots
 HomeScreen
-![Screenshot_1720210255](https://github.com/Ajaykumaryadav-Aj/flutter_weather_app/assets/141110945/399b84f6-520c-4b25-b05b-6e357dfd4a3b)
+ <img src="https://github.com/Ajaykumaryadav-Aj/flutter_weather_app/assets/141110945/399b84f6-520c-4b25-b05b-6e357dfd4a3b" width="300" height="600">
+
 
 DetailedScreen
-![Screenshot_1720210272](https://github.com/Ajaykumaryadav-Aj/flutter_weather_app/assets/141110945/d7b12807-5831-423c-9a4e-20fc4590d69a)
+ <img src="https://github.com/Ajaykumaryadav-Aj/flutter_weather_app/assets/141110945/d7b12807-5831-423c-9a4e-20fc4590d69a" width="300" height="600">
+
 
 
 
